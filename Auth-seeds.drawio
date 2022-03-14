@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T07:40:39.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="sQs1-7COckgzy86jguVu" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T08:01:13.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Gy4WC3lIjNrGXVXtCISy" version="17.1.2" type="github" pages="6">
   <diagram id="PLzbLmFHZJwY42GmOzc-" name="cloud architect">
     <mxGraphModel dx="2500" dy="2065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1062,7 +1062,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LF9A14juebanIztVAwl8" name="tv-active">
-    <mxGraphModel dx="2035" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1339,7 +1339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ObA81YY7awEanWI2xm2L" name="iot-seed-oauth2">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SFb55QZbPe3G-XmgHMa0-0" />
         <mxCell id="SFb55QZbPe3G-XmgHMa0-1" parent="SFb55QZbPe3G-XmgHMa0-0" />
@@ -1447,7 +1447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yGqEEl2KrXxZlz5hQrF8" name="user auth">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5Qu8xCjoA44Ouej1mFPt-0" />
         <mxCell id="5Qu8xCjoA44Ouej1mFPt-1" parent="5Qu8xCjoA44Ouej1mFPt-0" />
@@ -1602,13 +1602,27 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="TuNBb4GwkMAsDJB38jZX" name="Page-5">
-    <mxGraphModel dx="2249" dy="1965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="TuNBb4GwkMAsDJB38jZX" name="Device flow">
+    <mxGraphModel dx="3076" dy="1965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3xPmtWVnhviJZrpHuAjB-0" />
         <mxCell id="3xPmtWVnhviJZrpHuAjB-1" parent="3xPmtWVnhviJZrpHuAjB-0" />
         <mxCell id="3xPmtWVnhviJZrpHuAjB-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeds-docs.meta.csxdev.com/img/auth_seed/device_authentication_flow.png;" vertex="1" parent="3xPmtWVnhviJZrpHuAjB-1">
-          <mxGeometry x="-279" y="-556" width="1845" height="2453.71" as="geometry" />
+          <mxGeometry x="-988" y="571" width="1845" height="2453.71" as="geometry" />
+        </mxCell>
+        <mxCell id="l9-5ZajV-TSkc4DHHPmk-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeds-docs.meta.csxdev.com/img/auth_seed/device_authentication_flow.png;" vertex="1" parent="3xPmtWVnhviJZrpHuAjB-1">
+          <mxGeometry x="-1001" y="-80" width="1845" height="2453.71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uNdLm03xY9FjhZN2tInC" name="User Flow">
+    <mxGraphModel dx="1422" dy="1965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jGW3mrtLkBjd-31-Hnax-0" />
+        <mxCell id="jGW3mrtLkBjd-31-Hnax-1" parent="jGW3mrtLkBjd-31-Hnax-0" />
+        <mxCell id="jGW3mrtLkBjd-31-Hnax-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeds-docs.meta.csxdev.com/img/auth_seed/user_authentication_flow.png;" vertex="1" parent="jGW3mrtLkBjd-31-Hnax-1">
+          <mxGeometry x="83" y="-329.99999999999994" width="1157.53" height="2142.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
