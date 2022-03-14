@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T08:03:41.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9PJCY6XtMNFLr2ct19FY" version="17.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-14T08:13:13.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="VWgBa1AGlSzZUrorGkKS" version="17.1.2" type="github" pages="6">
   <diagram id="PLzbLmFHZJwY42GmOzc-" name="cloud architect">
     <mxGraphModel dx="2500" dy="2065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1603,15 +1603,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuNBb4GwkMAsDJB38jZX" name="Device flow">
-    <mxGraphModel dx="3076" dy="1965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="-373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3xPmtWVnhviJZrpHuAjB-0" />
         <mxCell id="3xPmtWVnhviJZrpHuAjB-1" parent="3xPmtWVnhviJZrpHuAjB-0" />
         <mxCell id="3xPmtWVnhviJZrpHuAjB-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeds-docs.meta.csxdev.com/img/auth_seed/device_authentication_flow.png;" vertex="1" parent="3xPmtWVnhviJZrpHuAjB-1">
-          <mxGeometry x="-988" y="571" width="1845" height="2453.71" as="geometry" />
-        </mxCell>
-        <mxCell id="l9-5ZajV-TSkc4DHHPmk-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeds-docs.meta.csxdev.com/img/auth_seed/device_authentication_flow.png;" vertex="1" parent="3xPmtWVnhviJZrpHuAjB-1">
-          <mxGeometry x="-941" y="-85" width="1845" height="2453.71" as="geometry" />
+          <mxGeometry x="-920" y="1291" width="1845" height="2453.71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
