@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T03:39:26.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zvsYQnW-C2bJtuyovYFQ" version="17.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-14T05:55:11.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MlDbKsuPXecWNF7IMZOM" version="17.1.2" type="github" pages="3">
   <diagram id="PLzbLmFHZJwY42GmOzc-" name="cloud architect">
-    <mxGraphModel dx="2249" dy="1931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="2065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mM7CEdfe3j1j_ko0zwZY-0" />
         <mxCell id="mM7CEdfe3j1j_ko0zwZY-1" parent="mM7CEdfe3j1j_ko0zwZY-0" />
@@ -1062,7 +1062,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LF9A14juebanIztVAwl8" name="tv-active">
-    <mxGraphModel dx="2035" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1244,7 +1244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XZKyvN7AmMF5eH-SC4PA-36" value="return uri" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="XZKyvN7AmMF5eH-SC4PA-35" vertex="1" connectable="0">
+        <mxCell id="XZKyvN7AmMF5eH-SC4PA-36" value="return redirect uri" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="XZKyvN7AmMF5eH-SC4PA-35" vertex="1" connectable="0">
           <mxGeometry x="-0.0035" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1339,7 +1339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ObA81YY7awEanWI2xm2L" name="iot-seed-oauth2">
-    <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SFb55QZbPe3G-XmgHMa0-0" />
         <mxCell id="SFb55QZbPe3G-XmgHMa0-1" parent="SFb55QZbPe3G-XmgHMa0-0" />
